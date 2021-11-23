@@ -37,3 +37,5 @@ function closeModal() {
 cs('.pizzaInfo--cancelButton, .pizzaInfo--cancelMobileButton').forEach((item)=>{
     item.addEventListener('click', closeModal);
 });
+
+//continue...
